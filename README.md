@@ -50,11 +50,12 @@ Hardworking novice developer looking foward for my first work experience. Ready 
 
 ### GitHub Stats
 
-<p dir="auto">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmord&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <p dir="auto">
     <a href="http://www.github.com/Desmord">
         <img src="https://camo.githubusercontent.com/585bda71117e2bae1e4c29b6522c1b092332f5700a3d94348b3c75c5c1767c90/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64616e69656c6372616e6e65792673686f775f69636f6e733d7472756526686964653d636f6e747269627326636f756e745f707269766174653d74727565267469746c655f636f6c6f723d30383931623226746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d3038393162322662675f636f6c6f723d31633139313726686964655f626f726465723d747275652673686f775f69636f6e733d74727565" alt="Mikołaj Chojnacki GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Desmord&amp;show_icons=true&amp;hide=contribs&amp;count_private=true&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
     </a>
-</p>
+</p> -->
 
 <!-- ### Front Mentor -->
 
