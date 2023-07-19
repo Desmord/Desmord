@@ -48,9 +48,7 @@ Hardworking novice developer looking foward for my first work experience. Ready 
     </a>
 </p>
 
-### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Desmord&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- ### Front Mentor -->
