@@ -1,8 +1,8 @@
 ### Hi there 
 
-Hardworking novice developer looking foward for my first work experience. Ready to use his skills and passion at work. Oriented to achieve goals and possessing a strong willingness to learn.
+# Hardworking novice developer looking foward for my first work experience. Ready to use his skills and passion at work. Oriented to achieve goals and possessing a strong willingness to learn.
 
-## Checkout my home page https://home-page-eosin-three.vercel.app/
+# Checkout my home page https://home-page-eosin-three.vercel.app/
 
 ---
 
